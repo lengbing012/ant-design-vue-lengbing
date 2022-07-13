@@ -27,7 +27,7 @@
           <a href="" target="_blank">条款</a>
         </div>
         <div class="copyright">
-          Copyright &copy; 2019 <a href="http://www.heweizhuang.com" target="_blank">冷冰科技</a> 出品
+          Copyright &copy; 2022 <a href="http://www.heweizhuang.com" target="_blank">冷冰科技</a> 出品
         </div>
       </div>
     </div>
